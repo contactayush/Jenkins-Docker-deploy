@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed on your system:
 To start, clone the GitHub repository containing the project code. Open your terminal and run:
 
 ```sh
-https://github.com/contactayush/Jenkins-Docker-deploy.git
+git clone https://github.com/contactayush/Jenkins-Docker-deploy.git
 cd Jenkins-Docker-deploy
 ```
 
